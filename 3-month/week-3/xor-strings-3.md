@@ -1,7 +1,7 @@
 # XOR Strings 3
 
 ### Solution :smile:
-```java
+```python
 def strings_xor(s, t):
     res = ""
     for i in range(len(s)):
